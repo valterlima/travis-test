@@ -2,6 +2,7 @@ language: node_js
 node_js:
 - 6.9.5
 deploy:
+  app: valterlima-travis-test
   provider: heroku
   api_key:
     secure: uAN6hQnvpQoCr9w9i+lTw8jQGiKzc7SQG5itz5uELlaNj7xzM2Vh6y8hyFonIAvwb5ryHNXMgcE/6GZRkBdaTf2tzhLAOGHF+P7rx+Wsaz5gr77RfN/9XxyA4Mkg4jjchgEdvWT13BzGbUDvBfoa5XvfoZQ4ezgVzquNsuno6tMTJdlfoL/ZAPtzLlJByQGowlaJ40/qWRzGFSbp2uOCbfl+Oi3zHA/G88Sl+1TMoIRR10GI/n9apMlZWeY200CXvnQpiLVHr1k46/gwOfUU2zDuqWBIpyPfoqAP7rlloV65052eFwjLccHSqChyz3a3cP4TcO0eiLjuFK7PRRUE5qr0u/vLa4zPIJRL9TgjcNzhY1CG8EFEu9dKS+Pp/0G+Y7WyZBaNmMtMoShZj0uBChNFET1IyLC3ujipd/8COi2LrP/PehGAXd8HoOLYj/CX4k2tCyMg+aPeJk0pDfTdrULFn51h6MAdtQ3X66L4P/Eyhu3FZaVPVtqnkAFoYGdK2+A8nP4gFGEmbYGWFim/4mpe8uksFCp9rMOEkyRhthPFvnpv/IE8Dbhj6WUBVyTOBlbIiIOc9+qQcukPDJYK7ll+ebJx6rAFnzs4MRfKTQqaxGFbK4xVeW5xTXLb+cNmqDmYZSK63D0XJE4Y8lTfRQsj9I8+O1Jgne/RgToRkzM=
