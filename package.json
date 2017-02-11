@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/jshint/bin/jshint hello.js"
+    "test": "jshint hello.js"
   },
   "author": "Valter Lima Mesquita",
   "license": "ISC",
