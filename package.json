@@ -1,0 +1,14 @@
+{
+  "name": "travis-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "author": "Valter Lima Mesquita",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
