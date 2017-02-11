@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jshint hello.js",
+    "test": "jshint index.js",
     "start": "node index.js"
   },
   "author": "Valter Lima Mesquita",
