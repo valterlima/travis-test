@@ -2,10 +2,10 @@
   "name": "travis-test",
   "version": "0.0.1",
   "description": "",
-  "main": "hello.js",
+  "main": "index.js",
   "scripts": {
     "test": "jshint hello.js",
-    "start": "node hello.js"
+    "start": "node index.js"
   },
   "author": "Valter Lima Mesquita",
   "license": "ISC",
